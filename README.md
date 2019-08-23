@@ -18,3 +18,4 @@
 ** Graph kernels 
 ** La matriz Laplaciana de una gráfica 
 ** Aplicación del método para agrupar documentos (práctica)
+# NLP-Workshop-RIIAA-2019
