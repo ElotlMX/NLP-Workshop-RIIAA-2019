@@ -18,3 +18,5 @@
 	* Graph kernels 
 	* La matriz Laplaciana de una gráfica 
 	* Aplicación del método para agrupar documentos (práctica)
+	
+	Curso impartido por Ximena Gutiérrez y Víctor Mijangos, colaboradores de la Comunidad Elotl. UNAM, 2019
